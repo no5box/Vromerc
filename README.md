@@ -10,8 +10,7 @@ map h gT
 set enable_vrome_key=<C-z>
 
 " Disable Vrome in those sites, Multiple URLs can be separated with ‘,’
-set disablesites=mail.google.com, reader.google.com, wwww.google.com/reader // don’t run Vrome in those sites
-
+set disablesites=mail.google.com, reader.google.com, wwww.google.com/reader
 
 set searchengines+={"baidu":"http://www.baidu.com/s?wd={{keyword}}", "dict":"http://dict.youdao.com/search?q={{keyword}}"}
 
