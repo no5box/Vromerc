@@ -7,7 +7,7 @@ map h gT
 
 
 " Change enable vrome keybinding, default is 
-set enable_vrome_key=<C-q>
+set enable_vrome_key=<C-z>
 
 
 set searchengines+={"baidu":"http://www.baidu.com/s?wd={{keyword}}", "dict":"http://dict.youdao.com/search?q={{keyword}}"}
